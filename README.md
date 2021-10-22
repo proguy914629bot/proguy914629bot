@@ -14,3 +14,5 @@ I'm `proguy914629bot` (usually known as `proguy914629`). I make Discord bots and
         <li><a href="https://github.com/OpenRobot">OpenRobot</a></li>
     </ul>
 </ul>
+
+![](https://github-readme-stats.vercel.app/api?username=proguy914629bot&show_icons=true&theme=tokyonight)
