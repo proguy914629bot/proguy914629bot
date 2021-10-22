@@ -16,3 +16,5 @@ I'm `proguy914629bot` (usually known as `proguy914629`). I make Discord bots and
 </ul>
 
 ![](https://github-readme-stats.vercel.app/api?username=proguy914629bot&show_icons=true&theme=tokyonight)
+
+![](https://github.com/proguy914629bot/proguy914629bot/blob/main/github-metrics.svg)
