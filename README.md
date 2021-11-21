@@ -2,7 +2,7 @@
 
 I'm `proguy914629bot` (usually known as `proguy914629`). I make Discord bots and I code :)
 
-- 🔭 I’m currently working on <a href="https://github.openrobot.xyz/">@OpenRobot</a> and <a href="https://github.openrobot.xyz/Packages">@OpenRobot-Packages</a>
+- 🔭 I’m currently working on <a href="https://github.com/OpenRobot">@OpenRobot</a> and <a href="https://github.com/OpenRobot-Packages">@OpenRobot-Packages</a>
 - 💻 I currently have an <a href="https://api.openrobot.xyz">API</a> with tons of stuff like lyrics.
 - 🌱 I’m currently learning Python, HTML, JavaScript, SQL (mainly PostgreSQL and SQLite), Redis and RethinkDB.
 - 📫 How to reach me:
