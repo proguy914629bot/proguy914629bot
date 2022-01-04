@@ -15,8 +15,8 @@ I'm `proguy914629bot` (usually known as `proguy914629`). I make Discord bots and
     </ul>
 </ul>
 
-![](https://github-readme-stats.vercel.app/api?username=proguy914629bot&show_icons=true&theme=tokyonight)
+[![](https://github-readme-stats.vercel.app/api?username=proguy914629bot&show_icons=true&theme=tokyonight)](https://github.com/proguy914629bot)
 
-![](https://activity-graph.herokuapp.com/graph?username=proguy914629bot&bg_color=0D1116&color=38B6FF&line=38B6FF&point=FFFFFF&hide_border=true&custom_title=proguy914629%27s%20Contributions:)
+[![](https://activity-graph.herokuapp.com/graph?username=proguy914629bot&bg_color=0D1116&color=38B6FF&line=38B6FF&point=FFFFFF&hide_border=true&custom_title=proguy914629%27s%20Contributions:)](https://github.com/proguy914629bot)
 
-![](https://github.com/proguy914629bot/proguy914629bot/blob/main/github-metrics.svg)
+[![](https://github.com/proguy914629bot/proguy914629bot/blob/main/github-metrics.svg)](https://github.com/proguy914629bot)
