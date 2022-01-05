@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2225" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2614" class="">
     <defs>
         <style/>
     </defs>
@@ -1687,7 +1687,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.7 characters per line of code written</li>
+                        <li>Has approximately 37.0 characters per line of code written</li>
                         <li>Mostly pushes code around 04:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -2953,6 +2953,367 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 39 commits in <span class="repo">OpenRobot-Packages/transformers</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a139288</span>
+                                        <span class="message">[AutoProcessor] Correct AutoProcessor and automatically add processor… (#14881)
+
+* [AutoProcessor] Correct AutoProcessor and automatically add processor class
+
+* up
+
+* up
+
+* up
+
+* up
+
+* up
+
+* up
+
+* up
+
+* up
+
+* continue tomorrow
+
+* up
+
+* up
+
+* up
+
+* make processor class private
+
+* fix loop</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d7d60df</span>
+                                        <span class="message">Fixing a pathological case for slow tokenizers (#14981)
+
+* Fixing a pathological case for slow tokenizers
+
+* Update src/transformers/tokenization_utils.py</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d1ba56d</span>
+                                        <span class="message">remove absl workaround as it's no longer needed (#14909)
+
+the absl workaround hasn't been needed since 2019-04 https://github.com/abseil/abseil-py/issues/99 so it should be safe to remove it.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#04cddaf</span>
+                                        <span class="message">refactor: replace `assert` with `ValueError` (#14970)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#600496f</span>
+                                        <span class="message">[Wav2Vec2] Rename model's feature extractor to feature encoder (#14959)
+
+* rename classes
+
+* clean up more namings
+
+* remove bogus file
+
+* Apply suggestions from code review
+
+* Apply suggestions from code review
+
+* replace more names
+
+* more regex replace
+
+* make style
+
+* correct
+
+* correct more
+
+* make style
+
+* finish
+
+* correct more in wav2vec2
+
+* make style
+
+* improve freeze_extractor
+
+* add aliases
+
+* add tf aliases</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1bfa347</span>
+                                        <span class="message">[Tests] Speed up tokenizer tests (#14964)
+
+* speed up canine and mluke
+
+* speed up mbart and mbart50 toks
+
+* upload files</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f80775d</span>
+                                        <span class="message">Update README.md (#14965)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1e847b4</span>
+                                        <span class="message">[WavLM] give model for precision (#14958)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1c12191</span>
+                                        <span class="message">Add Speech Seq2Seq Training script (#14792)
+
+* start
+
+* add gradient checkpointing and feature extractor freezing
+
+* Apply suggestions from code review
+
+* up
+
+* up
+
+* up
+
+* correct
+
+* up
+
+* more changes
+
+* up
+
+* up
+
+* up
+
+* remove rst</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#10fd4fa</span>
+                                        <span class="message">[doc] :class: hunt (#14955)
+
+* [doc] :class: hunt
+
+* Apply suggestions from code review
+
+Co-authored-by: Sylvain Gugger &lt;35901082+sgugger@users.noreply.github.com&gt;
+
+* fix the fix + style
+
+Co-authored-by: Sylvain Gugger &lt;35901082+sgugger@users.noreply.github.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2c5597f</span>
+                                        <span class="message">Style</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b5e2b18</span>
+                                        <span class="message">Doc styler examples (#14953)
+
+* Fix bad examples
+
+* Add black formatting to style_doc
+
+* Use first nonempty line
+
+* Put it at the right place
+
+* Don't add spaces to empty lines
+
+* Better templates
+
+* Deal with triple quotes in docstrings
+
+* Result of style_doc
+
+* Enable mdx treatment and fix code examples in MDXs
+
+* Result of doc styler on doc source files
+
+* Last fixes
+
+* Break copy from</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e13f72f</span>
+                                        <span class="message">[doc] :obj: hunt (#14954)
+
+* redo sans examples
+
+* style</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#133c5e4</span>
+                                        <span class="message">[doc] consistent True/False/None default format (#14951)
+
+* [doc] consistent True/False/None default format
+
+* Update src/transformers/models/xlnet/modeling_xlnet.py
+
+Co-authored-by: Sylvain Gugger &lt;35901082+sgugger@users.noreply.github.com&gt;
+
+Co-authored-by: Sylvain Gugger &lt;35901082+sgugger@users.noreply.github.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b2f5002</span>
+                                        <span class="message">Convert last rst file (#14952)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#87e6e4f</span>
+                                        <span class="message">Doc styler v2 (#14950)
+
+* New doc styler
+
+* Fix issue with args at the start
+
+* Code sample fixes
+
+* Style code examples in MDX
+
+* Fix more patterns
+
+* Typo
+
+* Typo
+
+* More patterns
+
+* Do without black for now
+
+* Get more info in error
+
+* Docstring style
+
+* Re-enable check
+
+* Quality
+
+* Fix add_end_docstring decorator
+
+* Fix docstring</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c113827</span>
+                                        <span class="message">Fix duplicate call to save_checkpoint when using deepspeed (#14946)
+
+* Fix duplicate call to save_checkpoint when using deepspeed / stage3_gather_fp16_weights_on_model_save
+
+* Revert "Fix duplicate call to save_checkpoint when using deepspeed / stage3_gather_fp16_weights_on_model_save"
+
+This reverts commit 6a3dec0397723a8417351dc38fdebf14ab17756c.
+
+* Delete correct duplicate invocation of deepspeed save_checkpoint</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#03885a3</span>
+                                        <span class="message">fix to issue #14833 in data_collator - consider no labels (#14930)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#501307b</span>
+                                        <span class="message">Add `ElectraForCausalLM` -&gt; Enable Electra encoder-decoder model (#14729)
+
+* Add ElectraForCausalLM and cover some basic tests &amp; need to fix a few tests
+
+* Fix bugs
+
+* make style
+
+* make fix-copies
+
+* Update doc
+
+* Change docstring to markdown format
+
+* Remove redundant update_keys_to_ignore</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b058490</span>
+                                        <span class="message">ChunkPipeline (batch_size enabled on `zero-cls` and `qa` pipelines. (#14225)
+
+* Pipeline chunks.
+
+* Batching for Chunking pipelines ?
+
+* Batching for `question-answering` and `zero-shot-cls`.
+
+* Fixing for FNet.
+
+* Making ASR a chunk pipeline.
+
+* Chunking ASR API.
+
+* doc style.
+
+* Fixing ASR test.
+
+* Fixing QA eror (p_mask, padding is 1, not 0).
+
+* Enable both vad and simple chunking.
+
+* Max length for vad.
+
+* remove inference mode, crashing on s2t.
+
+* Revert ChunkPipeline for ASRpipeline.
+
+Too many knobs for simple integration within the pipeline, better stick
+to external convenience functions instead, more control to be had,
+simpler pipeline and also easier to replace with other things later.
+
+* Drop necessity for PT for these.
+
+* Enabling generators.
+
+* Add mic + cleanup.
+
+* Typo.
+
+* Typo2.
+
+* Remove ASR work, it does not belong in this PR anymore.
+
+* Update src/transformers/pipelines/pt_utils.py
+
+Co-authored-by: Lysandre Debut &lt;lysandre@huggingface.co&gt;
+
+* Update src/transformers/pipelines/zero_shot_classification.py
+
+Co-authored-by: Lysandre Debut &lt;lysandre@huggingface.co&gt;
+
+* Adding many comments.
+
+* Doc quality.
+
+* `hidden_states` handling.
+
+* Adding doc.
+
+* Bad rebase.
+
+* Autofixing docs.
+
+* Fixing CRITICAL bug in the new Zerocls pipeline.
+
+Co-authored-by: Lysandre Debut &lt;lysandre@huggingface.co&gt;</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">OpenRobot-Packages/OpenRobot-CLI</span>
                     </div>
                                 </div>
@@ -2999,19 +3360,6 @@
                                     </svg>
                                     <div class="content">
                       Starred <span class="repo">OpenRobot-Packages/OpenRobot-CLI</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Created new
-                      branch  <span class="code">main</span> in  <span class="repo">OpenRobot-Packages/OpenRobot-CLI</span>
                     </div>
                                 </div>
                             </section>
@@ -3577,7 +3925,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2022, 11:14:24  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 5 Jan 2022, 12:29:18  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
