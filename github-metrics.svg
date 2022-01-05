@@ -3339,7 +3339,7 @@ Upgrade version to 0.4.0 and have support for text generation, sentiment and sum
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 746k out of 82m users
+                      ranked 747k out of 82m users
                     </span>
                   
                   
@@ -3586,7 +3586,7 @@ Upgrade version to 0.4.0 and have support for text generation, sentiment and sum
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2022, 16:27:13  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 5 Jan 2022, 17:26:10  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
