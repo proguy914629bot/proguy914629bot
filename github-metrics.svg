@@ -2002,7 +2002,7 @@ Fix invalid comma</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 772k out of 85m users</span>
+                                    <span class="gh">ranked 773k out of 85m users</span>
                                 </div>
                                 <div class="text">Followed by 11 users</div>
                             </div>
@@ -2279,7 +2279,7 @@ Fix invalid comma</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Feb 2022, 12:25:07  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 16 Feb 2022, 13:18:40  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
