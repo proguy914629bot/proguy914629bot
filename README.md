@@ -18,8 +18,12 @@ I'm `proguy914629bot` (usually known as `proguy914629`). I make Discord bots and
     <li>Email: <a href="mailto:proguy914629@openrobot.xyz">proguy914629@openrobot.xyz</a></li>
 </ul>
 
-[![](https://github-readme-stats.vercel.app/api?username=proguy914629bot&show_icons=true&theme=tokyonight)](https://github.com/proguy914629bot)
+#### Discord Status:
+[![proguy914629's Discord Status](https://discord.c99.nl/widget/theme-1/699839134709317642.png)](https://discord.com/users/699839134709317642)
 
-[![](https://activity-graph.herokuapp.com/graph?username=proguy914629bot&bg_color=0D1116&color=38B6FF&line=38B6FF&point=FFFFFF&hide_border=true&custom_title=proguy914629%27s%20Contributions:)](https://github.com/proguy914629bot)
+#### GitHub:
+[![proguy914629's GitHub Stats](https://github-readme-stats.vercel.app/api?username=proguy914629bot&show_icons=true&theme=tokyonight)](https://github.com/proguy914629bot)
 
-[![](https://github.com/proguy914629bot/proguy914629bot/blob/main/github-metrics.svg)](https://github.com/proguy914629bot)
+[![proguy914629's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=proguy914629bot&bg_color=0D1116&color=38B6FF&line=38B6FF&point=FFFFFF&hide_border=true&custom_title=proguy914629%27s%20Contributions:)](https://github.com/proguy914629bot)
+
+[![proguy914629's GitHub Metrics](https://github.com/proguy914629bot/proguy914629bot/blob/main/github-metrics.svg)](https://github.com/proguy914629bot)
