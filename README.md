@@ -2,11 +2,12 @@
 
 I'm `proguy914629bot` (usually known as `proguy914629`). I make Discord bots and I code :)
 
-- 🔭 I’m currently working on <a href="https://github.com/OpenRobot">@OpenRobot</a> and <a href="https://github.com/OpenRobot-Packages">@OpenRobot-Packages</a>
-- 💻 I currently have an <a href="https://api.openrobot.xyz">API</a> with tons of stuff like Lyrics, OCR, NSFW Check, and more! I'm mainly working on <a href="https://github.com/OpenRobot">@OpenRobot</a>.
+- 🔭 I’m currently working on <a href="https://github.com/YodaBotOS">@YodaBotOS</a>, <a href="https://github.com/OpenRobot">@OpenRobot</a> and <a href="https://github.com/OpenRobot-Packages">@OpenRobot-Packages</a>
+- 💻 I currently have an <a href="https://api.yodabot.xyz">API</a> with tons of stuff like Music Genre Prediction/Classification, OCR, Lyrics and more! I'm mainly working on <a href="https://github.com/YodaBotOS">@YodaBotOS</a> and <a href="https://github.com/OpenRobot">@OpenRobot</a>.
 - 🌱 I’m currently learning AWS, Azure, Python, HTML, CSS, JavaScript, SQL (mainly PostgreSQL and SQLite), Redis and RethinkDB.
 - 📫 How to reach me (Connections):
 <ul>
+    <li>Socials Website: <a href="https://socials.proguy914629.link">proguy914629's socials</a></li>
     <li>Discord: <a href="https://discord.com/users/699839134709317642">@proguy914629#5419</a></li>
     <li>Github:</li>
     <ul>
