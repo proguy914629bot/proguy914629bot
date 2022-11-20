@@ -20,7 +20,7 @@ I'm `proguy914629bot` (usually known as `proguy914629`). I make Discord bots and
 </ul>
 
 #### Discord Status:
-[![proguy914629's Discord Status](https://discord.c99.nl/widget/theme-1/699839134709317642.png)](https://discord.com/users/699839134709317642)
+[![proguy914629's Discord Status](https://discord.c99.nl/widget/theme-4/699839134709317642.png)](https://discord.com/users/699839134709317642)
 
 #### GitHub:
 [![proguy914629's GitHub Stats](https://github-readme-stats.vercel.app/api?username=proguy914629bot&show_icons=true&theme=tokyonight)](https://github.com/proguy914629bot)
