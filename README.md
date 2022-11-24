@@ -21,7 +21,7 @@ I'm `proguy914629bot` (usually known as `proguy914629`). I make stuff and I code
 </ul>
 
 #### Discord Status:
-[![proguy914629's Discord Status](https://discord-profile-status.proguy914629.workers.dev)](https://discord.com/users/699839134709317642)
+[![proguy914629's Discord Status](https://discord-status.proguy.me)](https://discord.com/users/699839134709317642)
 
 #### GitHub:
 [![proguy914629's GitHub Stats](https://github-readme-stats.vercel.app/api?username=proguy914629bot&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/proguy914629bot)
