@@ -17,7 +17,7 @@ I'm `proguy914629bot` (usually known as `proguy914629`). I make stuff and I code
         <li><a href="https://github.com/OpenRobot-Packages">@OpenRobot-Packages</a></li>
     </ul>
     <li>Spotify: <a href="https://open.spotify.com/user/6y2ajg5jz63w0g00jtl82eizu">Pro Guy</a></li>
-    <li>Email: <a href="mailto:proguy@proguy.me">proguy914629@openrobot.xyz</a></li>
+    <li>Email: <a href="mailto:proguy@proguy.me">proguy@proguy.me</a></li>
 </ul>
 
 #### Discord Status:
