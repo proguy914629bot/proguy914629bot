@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2124 Commits
+                            2125 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    24.2k added, 1.71k removed
+                                    330k added, 115k removed
                                 </div>
                             </section>
                             <section>
@@ -385,7 +385,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 34 commits)</small>
+                    <small class="h-details">(computed from last 35 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1643,6 +1643,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#1f02414</div>
+                                        <div class="message">Fix lyrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">YodaBotOS/API</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#817542a</div>
                                         <div class="message">Fix lyrics</div>
                                     </div>
@@ -1710,26 +1730,6 @@
 Misunderstanding towards my own code
                                             <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
                                         </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">YodaBotOS/API</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e87afa0</div>
-                                        <div class="message">Fix lyrics</div>
                                     </div>
                                 </div>
                             </section>
@@ -2316,7 +2316,7 @@ Misunderstanding towards my own code
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2022, 10:16:32  with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 22 Dec 2022, 11:13:07  with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
