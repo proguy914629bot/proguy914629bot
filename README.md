@@ -1,4 +1,4 @@
-[### Hi there 👋
+### Hi there 👋
 
 I'm `proguy914629bot` (usually known as `proguy914629`). I make stuff and I code :)
 
